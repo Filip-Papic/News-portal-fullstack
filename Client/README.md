@@ -1,4 +1,4 @@
-# my-project
+# News portal client
 
 ## Project setup
 
